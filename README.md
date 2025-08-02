@@ -1,5 +1,7 @@
 # ML & Streamlit Deployment
 
+## Proyecto en colab con los entrenamientos y los scripts para las interfaces de las aplicaciones: `app.py` y `app-regresion.py`
+
 Este README proporciona instrucciones detalladas para:
 
 1. Estructurar el repositorio.
